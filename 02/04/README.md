@@ -480,6 +480,8 @@ str()
 <details>
   <summary>정답</summary>
 
+<br>
+
 > ③ 변수의 값은 한 번 정의하면 바꿀 수 없다.
 
 </details>
@@ -502,6 +504,9 @@ str()
 
 <details>
   <summary>정답</summary>
+
+<br>
+
 
 > ② print(number)
 
